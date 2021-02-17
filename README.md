@@ -16,8 +16,8 @@
   - 관련 분야: NLP
 * [E7] [나랑 닮은 연예인은 누구?](https://github.com/vg-rlo/aiffel_nodes/blob/master/Exploration/Facenet_face_embedding)
   * 관련 분야: facenet
-* [E8] 아이유팬이 좋아할 만한 다른 아티스트 찾기
-  * 관련 분야: 
+* [E8] [아이유팬이 좋아할 만한 다른 아티스트 찾기](https://github.com/vg-rlo/aiffel_nodes/tree/master/Exploration/Als_movie_recommendation)
+  * 관련 분야: 추천알고리즘, MF, Csr matrix
 * [E9]
 
 
